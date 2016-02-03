@@ -14,7 +14,7 @@ import mx.com.ronin.dto.Persona;
 
 import com.google.gson.Gson;
 
-@Path("/lista")
+@Path("/")
 public class ServicesWorld {
 
 	@GET
